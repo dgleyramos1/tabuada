@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(252, 252, 252);    
+    text-align: center;
+}
+
+section{
+    width: 500px;
+    height: 800px;
+    background-image: url(./img/manuscrito.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    
+}
+
+.container{
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: -100px;
+}
+
+#resposta{
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 110px;
+}
